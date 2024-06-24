@@ -1,0 +1,2 @@
+SpamassassinChannels - command ``/bin/grep -r '^\s*CHANNELURL=' /etc/mail/spamassassin/channel.d``
+=========================================================================================================

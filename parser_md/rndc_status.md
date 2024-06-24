@@ -1,0 +1,2 @@
+RndcStatus - Command ``rndc status``
+=====================================

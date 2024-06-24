@@ -1,0 +1,2 @@
+AuthSelectCurrent - command ``authselect current``
+==================================================

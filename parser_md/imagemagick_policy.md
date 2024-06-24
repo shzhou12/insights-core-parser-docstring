@@ -1,0 +1,2 @@
+ImageMagickPolicy - files ``/etc/ImageMagick/policy.xml`` and ``/usr/lib*/ImageMagick-6.5.4/config/policy.xml``
+===============================================================================================================

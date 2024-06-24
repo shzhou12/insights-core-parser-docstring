@@ -1,0 +1,2 @@
+ChkConfig - command ``chkconfig``
+=================================
